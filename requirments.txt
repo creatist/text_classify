@@ -1,0 +1,13 @@
+
+xgboost
+https://files.pythonhosted.org/packages/cf/bf/affc47084baa8483deb674b2eb9b67416ff6754950ba2344297a2cd10e4a/xgboost-1.0.0-py3-none-win_amd64.whl
+
+gensim
+https://files.pythonhosted.org/packages/3a/bc/1415be59292a23ff123298b4b46ec4be80b3bfe72c8d188b58ab2653dee4/gensim-3.8.0.tar.gz
+
+lightgbm
+https://files.pythonhosted.org/packages/1f/cb/a8ec24334c35a7d0c87b4e4e056bd2137573c7c1bd81c760b79a2f370254/lightgbm-2.3.1-py2.py3-none-win_amd64.whl
+
+jieba
+https://files.pythonhosted.org/packages/6e/ac/b093f63b2ef652295fd735a5c37005065830f672c727321565c1f22595fd/jieba-0.40.tar.gz
+
